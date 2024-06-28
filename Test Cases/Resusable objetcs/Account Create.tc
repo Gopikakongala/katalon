@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PSE 36(1)</description>
+   <name>Account Create</name>
+   <tag>Verify you can see the Asset related list on the contract with associated location ( Created in step 5).</tag>
+   <comment></comment>
+   <testCaseGuid>55fc99b3-510c-44b5-8115-ea860238110d</testCaseGuid>
+</TestCaseEntity>

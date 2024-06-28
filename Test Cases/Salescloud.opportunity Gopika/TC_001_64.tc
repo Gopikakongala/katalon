@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_64</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93bcd741-ddd7-408a-9221-ec75bc5de66b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>150be388-6f3f-4887-aa44-01860ea1848c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Files '</defaultValue>
+      <description></description>
+      <id>150be388-6f3f-4887-aa44-01860ea1848c</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

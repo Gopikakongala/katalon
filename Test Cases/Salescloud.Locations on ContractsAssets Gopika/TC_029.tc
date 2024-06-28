@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PSE 36(1)</description>
+   <name>TC_029</name>
+   <tag>Verify you can see the Asset related list on the contract with associated location ( Created in step 5).</tag>
+   <comment></comment>
+   <testCaseGuid>ab20eddf-2d51-4694-a6a8-298ba2673699</testCaseGuid>
+</TestCaseEntity>

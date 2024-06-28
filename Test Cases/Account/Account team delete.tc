@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account team delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49498b3b-5a75-4ba5-bb27-a7f2e1d51b43</testCaseGuid>
+</TestCaseEntity>
